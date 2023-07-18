@@ -1,0 +1,13 @@
+/nbproject/private/
+node_modules
+logs
+.idea
+nbproject
+nbproject/project.properties
+nbproject/project.xml
+excluded_elements
+.ftpconfig
+.ftpignore
+sftp-config.json
+debug.txt
+.vscode
